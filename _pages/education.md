@@ -9,7 +9,7 @@ redirect_from:
 
 ## University of Illinois at Chicago
 ### Master of Science in Computer Science
-Chicago, Illinois, United States
+Chicago, Illinois, United States </br>
 August 2019 - Present (Expected graduation: May 2021)
 
 _Focus Areas:_ Deep Learning, Machine Learning, Data Science
