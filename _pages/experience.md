@@ -40,16 +40,16 @@ Dec 2016 - May 2017, Chennai, India
 * Developed a JSON Stream parsing tool for Zoho Creator to obtain statistics on usage of API and Web URLs.
 
 ## Projects
-### Incorporating BERT into Abstractive Text Summarization
+### [Incorporating BERT into Abstractive Text Summarization](https://github.com/Vignesh-Nswamy/Abstractive-Text-Summarization)
 Nov 2020 - Dec 2020
 * Led a team of graduate students in building and training a custom Transformer architecture with a pre-trained BERT backbone on CNN Dailymail dataset to summarize news articles.
 
-### 3D Deep Learning architectures to diagnose Alzheimer's Disease
+### [3D Deep Learning architectures to diagnose Alzheimer's Disease](https://github.com/Vignesh-Nswamy/AD-Diagnosis)
 Apr 2020 - May 2020
 * Headed a team of two graduate students in designing multiple deep learning architectures to diagnose Alzheimer’s Disease and Mild Cognitive Impairment using 3D neuroimages and patient demographics obtained from Alzheimer's Disease Neuroimaging Initiative.
 
-### Election Forecast
-Oct 2019 - Nov 2019
-* Led a team of 2 undergraduates to build a regression model to predict number of votes that may be cast for a political party in each U.S. county using demographics information of 2018 U.S. Senate elections.
-* Trained a classification model to categorize counties based on votes cast for each political party.
+### [Image Generation using Deep Convolutional Generative Adversarial Networks](https://github.com/Vignesh-Nswamy/DCGAN)
+Feb 2020 - Mar 2020
+* Developed a DCGAN to recognize complex patterns in images from CelebFaces Attributes Dataset and generate real-looking fake facial images.
+
 
