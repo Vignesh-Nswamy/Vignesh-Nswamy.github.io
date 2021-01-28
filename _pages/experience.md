@@ -57,4 +57,19 @@ Apr 2020 - May 2020
 Feb 2020 - Mar 2020
 * Developed a DCGAN to recognize complex patterns in images from CelebFaces Attributes Dataset and generate real-looking fake facial images.
 
+### [Emotion Detection using Deep Convolutional Neural Networks](https://github.com/Vignesh-Nswamy/Emotion-Detection)
+Feb 2020 - Mar 2020
+* Built a DCNN to identify a subject's emotional state (Anger, Disgust, Fear, happiness, sadness, surprise or neutrality) from facial image.
+* Model trained on facial image dataset available [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
+### [Identification of Bird Genus using Parallel CRNN and CRNN](https://github.com/Vignesh-Nswamy/Bird-Genus-Identification)
+Jan 2020 - Feb 2020
+* Trained Parallel CRNN, CRNN and LSTM models to identify 182 different Brazilian bird genera.
+* All models trained separately on mel-spectrograms representations of a subset of high quality audio recordings of Brazilian birds' songs obtained from https://www.xeno-canto.org/ using their API.
+
+### [Election Forecast](https://github.com/Vignesh-Nswamy/Data-Science/tree/master/Project%202)
+* Led a team of 2 undergraduates to build a regression model to predict number of votes that may be cast for a political party in each U.S. county using demographics information of 2018 U.S. Senate elections.
+* Trained a classification model to categorize counties based on votes cast for each political party.
+
+
 
