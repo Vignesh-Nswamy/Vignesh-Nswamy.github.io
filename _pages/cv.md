@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Vignesh's Resume](http://Vignesh-Nswamy.github.io/files/resume.pdf)
+[Vignesh's Resume](http://Vignesh-Nswamy.github.io/files/Resume_Vignesh_Narayanaswamy.pdf)
