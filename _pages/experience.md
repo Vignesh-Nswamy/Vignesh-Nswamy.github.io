@@ -10,32 +10,33 @@ redirect_from:
 ### Data Science Intern
 *Charlotte, North Carolina, United States* <br />
 Jan 2021 - Present
-* Responsible for curating images to prepare labeled datasets and utilizing them to train deep learning models to detect articles/objects within images.
+* Deployed a PixelLink-like deep learning model on Azure to detect text in engineering drawings.
+* Working on GenICam Python SDK to detect and control GigE Vision cameras.
 
 ## University of Illinois at Chicago
 ### Grad Student Researcher
 *Chicago, Illinois, United States* <br />
 Mar 2020 - Dec 2020
-* Designed an object tracking system to synchronize multi-perspective videos.
-* Trained Time Contrastive Networks on custom datasets to aid a robot (UR10e) in learning to perform menial tasks by imitating a human demonstrator.
+* Used OpenCV to synchronize multi-perspective videos by tracking a moving object in the video streams.
+* Trained Time Contrastive Networks on unlabeled multi-perspective videos to learn viewpoint-invariant representations, which were later used to aid a robot (UR10e) to imitate tasks performed by a human demonstrator.
 
 ## Mariner
 ### Data Science Intern
 *Charlotte, North Carolina, United States* <br />
 Jun 2020 - Aug 2020
-* Developed a deep learning pipeline to extract information from large-scale engineering drawings.
-* Built shape and text detection models for image augmentation.
-* Fine-tuned Segmentation and OCR models for localized information extraction.
+* Annotated engineering drawings using CVAT tool and prepared datasets to train text detection and segmentation models.
+* Utilized OpenCV and PixelLink-like text detection model from OpenVino respectively to detect objects and text in engineering drawings.
+* Fine-tuned U-Net and DeepLab segmentation models and used them along with Azure OCR for localized information extraction from engineering drawings.
 
 ## Zoho Corporation
 ### Member Technical Staff - Software Engineer
 *Chennai, India* <br />
 May 2017 - Jun 2019
 * Designed and deployed a framework to track user activities assisting project management teams streamline feature releases.
-* Enhanced Zoho Creator's API infrastructure resulting in reduction of performance bottlenecks by up to 75%.
+* Enhanced Zoho Creator’s API infrastructure by rewriting them using updated internal frameworks for data retrieval and caching resulting in reduction of performance bottlenecks by up to 75%.
 * Developed Command Line tools to download user data from Zoho Creator, tested to be 45% faster than previous versions.
 * Built tools using Bash and Python to automate DevOps processes saving developers up to 20 minutes every day.
-* Facilitated planning and review discussions to establish project goals and timelines.
+* Facilitated planning and review discussions with customer support teams and project leads to establish project goals and timelines.
 * Collaborated with customer support teams to resolve software-specific functionality issues in Zoho Creator platform.
 
 ## Zoho Corporation
@@ -47,11 +48,11 @@ Dec 2016 - May 2017
 ## Projects
 ### [Incorporating BERT into Abstractive Text Summarization](https://github.com/Vignesh-Nswamy/Abstractive-Text-Summarization)
 Nov 2020 - Dec 2020
-* Led a team of graduate students in building and training a custom Transformer architecture with a pre-trained BERT backbone on CNN Dailymail dataset to summarize news articles.
+* Led a team of graduate students in building and training a custom Transformer architecture with a pre-trained BERT encoder backbone on CNN Dailymail dataset to summarize news articles.
 
 ### [3D Deep Learning architectures to diagnose Alzheimer's Disease](https://github.com/Vignesh-Nswamy/AD-Diagnosis)
 Apr 2020 - May 2020
-* Headed a team of two graduate students in designing multiple deep learning architectures to diagnose Alzheimer’s Disease and Mild Cognitive Impairment using 3D neuroimages and patient demographics obtained from Alzheimer's Disease Neuroimaging Initiative.
+* Headed a team of two graduate students in designing Deep 3D Convolutional Networks to diagnose Alzheimer’s Disease and Mild Cognitive Impairment using 3-D neuroimages and patient demographics.
 
 ### [Image Generation using Deep Convolutional Generative Adversarial Networks](https://github.com/Vignesh-Nswamy/DCGAN)
 Feb 2020 - Mar 2020
